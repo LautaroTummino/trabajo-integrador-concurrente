@@ -83,8 +83,3 @@ También se integró un área de logs que muestra en tiempo real los mensajes qu
 Este trabajo permitió poner en práctica conceptos fundamentales de la programación concurrente, enfrentando y resolviendo problemas reales como la condición de carrera y la indeterminación. Gracias a los mecanismos que brinda Java, como los monitores implementados con `synchronized`, y la interfaz `Runnable` para definir tareas que se ejecutan en paralelo, fue posible coordinar correctamente el acceso a los recursos compartidos. De esta forma, se garantiza un comportamiento coherente del sistema, evitando errores comunes al trabajar con múltiples hilos.
 
 ---
-
-## Referencias
-
-* Universidad Nacional de Río Negro. (s.f.). Unidad 3: Introducción a los Sistemas Distribuidos y Paralelos: Concurrencia con variables compartidas.
-* OpenAI. (2025). Chat GPT (versión GPT-4.5) https://chat.openai.com/
